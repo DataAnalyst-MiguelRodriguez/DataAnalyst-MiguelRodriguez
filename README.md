@@ -1,54 +1,114 @@
-# Hola, soy Miguel Rodríguez 👋
+<div align="center">
 
-**Data Analyst** | Ingeniero Químico y Maestro en Ingeniería Industrial
-Convierto datos en decisiones de negocio respaldadas por evidencia estadística: A/B testing, segmentación de clientes, funnels, retención y KPIs.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Miguel%20Rodr%C3%ADguez&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Data%20Analyst&descSize=22&descAlignY=60" width="100%"/>
 
-📍 Culiacán, Sinaloa, México · 🌐 Español (nativo) · Inglés (C1)
-💼 Abierto a oportunidades como Data Analyst (remoto / híbrido)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=3FA7B5&center=true&vCenter=true&width=620&lines=Convierto+datos+en+decisiones+de+negocio;SQL+%C2%B7+Python+%C2%B7+Power+BI+%C2%B7+Tableau;A%2FB+testing+%C2%B7+Segmentaci%C3%B3n+%C2%B7+KPIs" alt="Typing SVG"/>
 
----
+<br/>
+
+<a href="https://www.linkedin.com/in/miguel-rodriguez-dataanalyst/"><img src="https://img.shields.io/badge/LinkedIn-Conectemos-2C5364?style=for-the-badge"/></a>
+<a href="mailto:mian.rove04@gmail.com"><img src="https://img.shields.io/badge/Email-Escr%C3%ADbeme-2C5364?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+</div>
+
+<br/>
+
+## 👋 Sobre mí
+
+<table>
+<tr>
+<td width="68%" valign="top">
+
+**Data Analyst** con formación en **Ingeniería Química** y **Maestría en Ingeniería Industrial**. Analizo datos para evaluar experimentos A/B, segmentar clientes y medir KPIs, siempre con conclusiones respaldadas por evidencia estadística.
+
+Con **+12 años como docente universitario** de SQL, estadística y métodos numéricos, sé explicar hallazgos complejos de forma clara a cualquier audiencia.
+
+📍 Culiacán, Sinaloa, México
+🌐 Español (nativo) · Inglés (C1)
+💼 Abierto a oportunidades: remoto / híbrido
+
+</td>
+<td width="32%" align="center" valign="middle">
+
+<img src="assets/foto.png" alt="Miguel Rodríguez" width="180"/>
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 ## 🛠️ Stack
 
-| | |
-|---|---|
-| **Lenguajes** | SQL (PostgreSQL) · Python · R · C++|
-| **Python** | pandas · NumPy · SciPy · Statsmodels · matplotlib · seaborn |
-| **Visualización** | Power BI · Tableau · Excel |
-| **Estadística** | A/B testing · pruebas de hipótesis · correlaciones · EDA |
-| **Herramientas** | Git · GitHub |
+<div align="center">
 
----
+<img src="https://img.shields.io/badge/SQL-2C5364?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-2C5364?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/R-2C5364?style=for-the-badge&logo=r&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-2C5364?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-2C5364?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/SciPy-2C5364?style=for-the-badge&logo=scipy&logoColor=white"/>
+<br/>
+<img src="https://img.shields.io/badge/Power%20BI-203A43?style=for-the-badge&logo=powerbi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tableau-203A43?style=for-the-badge&logo=tableau&logoColor=white"/>
+<img src="https://img.shields.io/badge/Excel-203A43?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-203A43?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-203A43?style=for-the-badge&logo=github&logoColor=white"/>
+
+</div>
+
+<br/>
 
 ## 🚀 Proyectos destacados
 
-### 🛒 [ABC Retail: análisis end-to-end](https://github.com/DataAnalyst-MiguelRodriguez/ABC_Retail_Final)
-Rentabilidad, funnel de conversión de 6 etapas, retención por cohortes y A/B test de checkout (10,000 usuarios). Detecté la mayor fuga del funnel (13.3%) y recomendé **no** implementar un cambio sin significancia estadística (p = 0.42).
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🛒 [ABC Retail](https://github.com/DataAnalyst-MiguelRodriguez/ABC_Retail_Final)
+Análisis end-to-end: rentabilidad, funnel de 6 etapas, retención por cohortes y A/B test (10,000 usuarios). Recomendé **no** implementar un cambio sin significancia (p = 0.42).
+
 `Python` `SQL` `Power BI`
 
-### 🧪 [Experimento A/B en Landing Page](https://github.com/DataAnalyst-MiguelRodriguez/Proyecto_Landing-Experiment)
-Análisis de 40,000 usuarios: la Página B superó a la A en conversión (**15.96% vs 12.57%**) y en gasto promedio (**+12.5%**), con p < 0.001.
+</td>
+<td width="50%" valign="top">
+
+### 🧪 [A/B Test en Landing Page](https://github.com/DataAnalyst-MiguelRodriguez/Proyecto_Landing-Experiment)
+40,000 usuarios: la Página B ganó en conversión (**15.96% vs 12.57%**) y gasto promedio (**+12.5%**), con p < 0.001.
+
 `Python` `SciPy` `Statsmodels`
 
-### 📱 [ConnectaTel: segmentación de clientes](https://github.com/DataAnalyst-MiguelRodriguez/Analisis---ConnectaTel)
-Limpieza, integración y análisis de 4,000 clientes y 40,000 registros de actividad para segmentar por edad y nivel de uso, con recomendaciones de fidelización.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📱 [ConnectaTel](https://github.com/DataAnalyst-MiguelRodriguez/Analisis---ConnectaTel)
+Segmentación de 4,000 clientes y 40,000 registros de actividad por edad y nivel de uso, con recomendaciones de fidelización.
+
 `Python` `Pandas` `Seaborn`
 
-### 📈 [NovaMarket: análisis de correlación](https://github.com/DataAnalyst-MiguelRodriguez/Proyecto_NovaRetail)
-EDA de 1,500 usuarios de e-commerce con Pearson, Spearman, punto-biserial y V de Cramér; los resultados cuestionan la suscripción como único criterio de segmentación.
+</td>
+<td width="50%" valign="top">
+
+### 📈 [NovaMarket](https://github.com/DataAnalyst-MiguelRodriguez/Proyecto_NovaRetail)
+EDA de 1,500 usuarios con Pearson, Spearman, punto-biserial y V de Cramér para cuestionar la segmentación por suscripción.
+
 `Python` `SciPy` `Seaborn`
 
----
+</td>
+</tr>
+</table>
 
-## 👨‍🏫 Experiencia en breve
+<br/>
 
-- **+12 años como docente universitario** de SQL, estadística y métodos numéricos (120 estudiantes por semestre)
-- **Ingeniería de procesos:** diseños que redujeron 60% los tiempos de producción
-- **Liderazgo:** dirigí un equipo multidisciplinario de 22 personas
-- **Formación:** Data Analytics en TripleTen (2026)
+## 🧭 Trayectoria
 
----
+- 👨‍🏫 **+12 años** como docente universitario (SQL, estadística, métodos numéricos)
+- ⚙️ **Ingeniería de procesos:** diseños que redujeron **60%** los tiempos de producción
+- 👥 **Liderazgo:** equipo multidisciplinario de **22 personas**
+- 🎓 **Data Analytics** · TripleTen (2026)
 
-## 📫 Contacto
+<br/>
 
-[LinkedIn](https://www.linkedin.com/in/miguel-rodriguez-dataanalyst/) · [mian.rove04@gmail.com](mailto:mian.rove04@gmail.com)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=footer" width="100%"/>
