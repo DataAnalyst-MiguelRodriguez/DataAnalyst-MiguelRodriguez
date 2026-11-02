@@ -17,7 +17,7 @@
 
 <table>
 <tr>
-<td width="68%" valign="top">
+<td width="62%" valign="top">
 
 **Data Analyst** con formación en **Ingeniería Química** y **Maestría en Ingeniería Industrial**. Analizo datos para evaluar experimentos A/B, segmentar clientes y medir KPIs, siempre con conclusiones respaldadas por evidencia estadística.
 
@@ -28,9 +28,14 @@ Con **+12 años como docente universitario** de SQL, estadística y métodos num
 💼 Abierto a oportunidades: remoto / híbrido
 
 </td>
-<td width="32%" align="center" valign="middle">
+<td width="38%" valign="middle">
 
-<img src="assets/foto.png" alt="Miguel Rodríguez" width="180"/>
+### 📬 Contacto
+
+📧 [mian.rove04@gmail.com](mailto:mian.rove04@gmail.com)
+📱 +52 667 126 8147
+💬 [WhatsApp](https://wa.me/526671268147)
+🔗 [LinkedIn](https://www.linkedin.com/in/miguel-rodriguez-dataanalyst/)
 
 </td>
 </tr>
